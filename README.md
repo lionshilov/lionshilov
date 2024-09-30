@@ -68,6 +68,15 @@ My name is **Lev Shilov**, iOS developer with a passion for creating elegant and
 ## 📚 Publications
 
 - Published scientific articles in RSCI, HAC, and Scopus on software architecture development and 3D reconstruction of the foot and human body shape.
+  
+- **[Reconstruction of a 3D Human Foot Shape Model Based on a Video Stream Using Photogrammetry and Deep Neural Networks](https://www.mdpi.com/1999-5903/13/12/315)**
+  - *Future Internet*, MDPI, 2021.
+  
+- **[Реконструкция 3D‐модели формы стопы человека на основе видеопотока](https://avtprom.ru/system/files/DOI/2022/5/7._shilov_07.pdf)**
+  - *Автоматизация и современные технологии*, 2022.
+  
+- **[Использование методов машинного обучения для анализа RGB-изображений при создании трехмерных моделей на примере человеческого тела](https://avtprom.ru/system/files/DOI/2024/4/8._l.s._shilov_s.e._shanshin.pdf)**
+  - *Автоматизация и современные технологии*, 2024.
 
 ## 📫 Contact Me
 
