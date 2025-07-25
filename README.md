@@ -90,9 +90,3 @@
   <a href="https://linkedin.com/in/lev-shilov-842a92225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/lionshilov"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
-
----
-
-<p align="center">
-  <em>Thank you for visiting my profile! Your 👀 just met the sharpest code ninja in Swift!</em>
-</p>
