@@ -1,89 +1,98 @@
-# Hello! 👋
+<!--
+  _   _      _ _         __        __         _     _
+ | | | | ___| | | ___    \ \      / /__  _ __| | __| |
+ | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` |
+ |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |
+ |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_|
+                      |/                              
+-->
 
-My name is **Lev Shilov**, iOS developer with a passion for creating elegant and efficient applications in Swift.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lev%20Shilov&fontSize=60" alt=""/>
+</div>
 
-## 🚀 Technologies & Tools
-
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
-![Objective-C](https://img.shields.io/badge/-Objective--C-1575F9?logo=apple&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=flat)
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=flat)
-![UIKit](https://img.shields.io/badge/-UIKit-2396F3?logo=apple&logoColor=white&style=flat)
-![SnapKit](https://img.shields.io/badge/-SnapKit-000000?style=flat)
-![StoreKit](https://img.shields.io/badge/-StoreKit-000000?style=flat)
-![AVFoundation](https://img.shields.io/badge/-AVFoundation-000000?style=flat)
-![CoreMedia](https://img.shields.io/badge/-CoreMedia-000000?style=flat)
-![CoreVideo](https://img.shields.io/badge/-CoreVideo-000000?style=flat)
-![Photos](https://img.shields.io/badge/-Photos-000000?style=flat)
-![CoreData](https://img.shields.io/badge/-CoreData-000000?style=flat)
-![TorchScript](https://img.shields.io/badge/-TorchScript-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![CoreML](https://img.shields.io/badge/-CoreML-000000?style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-388E3C?style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=flat)
-![Swinject](https://img.shields.io/badge/-Swinject-FA7343?style=flat)
-
-## 🛠️ Software Architecture
-
-- Proficient in various design patterns.
-- Experience in building applications from scratch using MVP, MVC, MVVM architectures.
-- Strong understanding of OOP principles and SOLID design.
-
-## 🔭 Professional Experience
-
-### AIKynetix
-
-**iOS Team Lead** | December 2023 - Present
-
-- Leading the development of an iOS application based on MVP and MVVM architectures.
-- Writing algorithms for video image processing.
-- Task assignment and supervision of team execution.
-- Working with CoreML, UIKit, SnapKit, StoreKit, AVFoundation, CoreMedia, CoreData.
-
-**iOS Developer** | February 2022 - December 2023
-
-- Developed features using UIKit, SnapKit, and AVFoundation.
-- Implemented MVP and VIPER architectures.
-- Programmed in Objective-C, C++, Python.
-- Used Swinject for dependency injection.
-
-## 🎓 Education
-
-**Tomsk State University of Control Systems and Radioelectronics (TUSUR)**
-
-- **Years of study**: 2017 - 2023
-- **Specialization**: Information and Analytical Security Systems (10.05.04)
-- **Degree**: Specialist
-- **GPA**: 4.9 out of 5
-
-## 📚 Publications
-
-- Published scientific articles in RSCI, HAC, and Scopus on software architecture development and 3D reconstruction of the foot and human body shape.
-  
-- **[Reconstruction of a 3D Human Foot Shape Model Based on a Video Stream Using Photogrammetry and Deep Neural Networks](https://www.mdpi.com/1999-5903/13/12/315)**
-  - *Future Internet*, MDPI, 2021.
-  
-- **[Реконструкция 3D‐модели формы стопы человека на основе видеопотока](https://avtprom.ru/system/files/DOI/2022/5/7._shilov_07.pdf)**
-  - *Автоматизация и современные технологии*, 2022.
-  
-- **[Использование методов машинного обучения для анализа RGB-изображений при создании трехмерных моделей на примере человеческого тела](https://avtprom.ru/system/files/DOI/2024/4/8._l.s._shilov_s.e._shanshin.pdf)**
-  - *Автоматизация и современные технологии*, 2024.
-
-## 📫 Contact Me
-
-- **Email**: [lionshilov@yandex.ru](mailto:lionshilov@yandex.ru)
-- **LinkedIn**: [Lev Shilov](https://www.linkedin.com/in/lev-shilov-842a92225/)
-- **GitHub**: [lionshilov](https://github.com/lionshilov)
+<div align="center">
+  <p>👋 Hi, I'm <strong>Lev Shilov</strong> — iOS developer crafting elegant & efficient applications in Swift.</p>
+</div>
 
 ---
 
-Thank you for visiting my profile!
+## 🔭 Technologies & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Objective--C-1575F9?logo=apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/SnapKit-000000" alt="SnapKit" />
+  <img src="https://img.shields.io/badge/StoreKit-000000" alt="StoreKit" />
+  <img src="https://img.shields.io/badge/AVFoundation-000000" alt="AVFoundation" />
+  <img src="https://img.shields.io/badge/CoreData-000000" alt="CoreData" />
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details>
+  <summary><strong>AIKynetix</strong></summary>
+
+**iOS Team Lead** | Dec 2023 – Present
+
+* Leading iOS app development using MVP & MVVM architectures.
+* Designing video image processing algorithms.
+* Overseeing task assignment & team execution.
+* Integrating CoreML, SnapKit, StoreKit, AVFoundation, CoreMedia, CoreData.
+
+**iOS Developer** | Feb 2022 – Dec 2023
+
+* Built features in UIKit & SnapKit.
+* Implemented MVP & VIPER patterns.
+* Programmed in Objective-C, C++, Python.
+* Employed Swinject for dependency injection.
+
+</details>
+
+---
+
+## 🎓 Education
+
+* **Tomsk State University** (TUSUR) — Specialist in Information & Analytical Security Systems (2017–2023)
+* GPA: 4.9/5.0
+
+---
+
+## 📚 Publications
+
+* **Reconstruction of a 3D Human Foot Shape Model Based on a Video Stream** — *Future Internet*, MDPI, 2021 ([link](https://www.mdpi.com/1999-5903/13/12/315))
+* **Реконструкция 3D‑модели формы стопы человека на основе видеопотока** — *АиСовременные технологии*, 2022 ([PDF](https://avtprom.ru/system/files/DOI/2022/5/7._shilov_07.pdf))
+* **Использование методов машинного обучения для анализа RGB‑изображений при создании трехмерных моделей** — *АиСовременные технологии*, 2024 ([PDF](https://avtprom.ru/system/files/DOI/2024/4/8._l.s._shilov_s.e._shanshin.pdf))
+
+---
+
+## 📈 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lionshilov&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:lionshilov@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/lev-shilov-842a92225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/lionshilov"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+---
+
+<p align="center">
+  <em>Thank you for visiting my profile! Your 👀 just met the sharpest code ninja in Swift!</em>
+</p>
