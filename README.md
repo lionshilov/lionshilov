@@ -42,7 +42,7 @@
 <details>
   <summary><strong>AIKynetix</strong></summary>
 
-**iOS Team Lead** | Dec 2023 – Present
+**Senior iOS Developer | Team Lead** | Dec 2023 – Present
 
 * Leading iOS app development using MVP & MVVM architectures.
 * Designing video image processing algorithms.
@@ -54,7 +54,6 @@
 * Built features in UIKit & SnapKit.
 * Implemented MVP & VIPER patterns.
 * Programmed in Objective-C, C++, Python.
-* Employed Swinject for dependency injection.
 
 </details>
 
