@@ -2,7 +2,7 @@
 
 # Hi, I'm Lev 👋
 
-### iOS engineer & indie builder shipping production apps with CoreML, open-source tools for Claude Code, and peer-reviewed computer vision research.
+### iOS engineer & indie builder. 7 apps live on the App Store, open-source tools for Claude Code, peer-reviewed computer-vision research.
 
 📍 Tomsk, Russia · 🏢 [@aikynetix](https://github.com/aikynetix) · [@Sprouter-ai](https://github.com/Sprouter-ai) · [@leamSoft-org](https://github.com/leamSoft-org)
 
@@ -10,12 +10,42 @@
 
 ---
 
-## 🚀 Currently shipping
+## 🚀 Shipped
+
+**On the App Store** — all live, downloadable:
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**AIKynetix** — AI sports-video analytics (leading iOS)
+
+- [Run · Jump · Lift (full suite)](https://apps.apple.com/app/id1565394039)
+- [Run AIK](https://apps.apple.com/app/id6741048150)
+- [Jump AIK](https://apps.apple.com/app/id6739533269)
+- [Lift AIK (Apple Watch)](https://apps.apple.com/app/id6741048318)
+- [Equestrian AIK](https://apps.apple.com/app/id6753741009)
+
+Real-time pose estimation, CoreML pipelines at 30+ FPS on-device.
+
+  </td>
+  <td valign="top" width="50%">
+
+**Solo / indie apps**
+
+- **[Focusy](https://apps.apple.com/app/id6760561095)** — Tasks, habits, AI coaching. SwiftUI + widgets + HealthKit.
+- **[Юрист AI Pair](https://apps.apple.com/app/id6760489106)** — An AI legal assistant for Russian consumer-rights questions.
+
+Built solo from scratch — design, code, App Store submission, growth.
+
+  </td>
+  </tr>
+</table>
+
+**Open source**
 
 - **[Forge](https://github.com/lionshilov/Forge)** — A multi-agent system for Claude Code that takes you from raw idea to shipped MVP. Zero install, just Markdown.
-- **AIKynetix (iOS)** — Real-time pose estimation and video analytics for athletes. CoreML pipelines running at 30+ FPS on-device.
-- **[Focusy](https://github.com/lionshilov/Focusy)** — A focus app I build solo. SwiftUI, widgets, HealthKit.
-- Side experiments in public: [VHS camera](https://github.com/lionshilov/vhscamera-ios) · [3D viewer](https://github.com/lionshilov/3dviewer-ios) · [power-weather](https://github.com/lionshilov/power-weather)
+- Side experiments: [VHS camera](https://github.com/lionshilov/vhscamera-ios) · [3D viewer](https://github.com/lionshilov/3dviewer-ios) · [power-weather](https://github.com/lionshilov/power-weather)
 
 ## 🛠️ What I work with
 
