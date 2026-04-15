@@ -12,7 +12,7 @@
 
 ## 🚀 Currently shipping
 
-- **[🔨 Forge](https://github.com/lionshilov/Forge)** — A multi-agent system for Claude Code that takes you from raw idea to shipped MVP. Zero install, just Markdown.
+- **[Forge](https://github.com/lionshilov/Forge)** — A multi-agent system for Claude Code that takes you from raw idea to shipped MVP. Zero install, just Markdown.
 - **AIKynetix (iOS)** — Real-time pose estimation and video analytics for athletes. CoreML pipelines running at 30+ FPS on-device.
 - **[Focusy](https://github.com/lionshilov/Focusy)** — A focus app I build solo. SwiftUI, widgets, HealthKit.
 - Side experiments in public: [VHS camera](https://github.com/lionshilov/vhscamera-ios) · [3D viewer](https://github.com/lionshilov/3dviewer-ios) · [power-weather](https://github.com/lionshilov/power-weather)
