@@ -1,0 +1,59 @@
+name: Metrics
+
+on:
+  # Regenerate daily at 00:30 UTC
+  schedule:
+    - cron: "30 0 * * *"
+  # Also regenerate on any push to main (so README changes pick up fresh stats)
+  push:
+    branches: [main]
+  # Manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Self-hosted SVG — no external runtime dependency.
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: lionshilov
+
+          # Appearance
+          template: classic
+          base: "header, activity, community, repositories, metadata"
+          config_timezone: Europe/Moscow
+
+          # Plugins (all work with the default GITHUB_TOKEN)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake,
+            gnuplot, shellsession, batchfile, powershell, markdown
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 15
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact

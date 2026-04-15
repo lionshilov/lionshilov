@@ -103,11 +103,10 @@ Peer-reviewed publications on 3D reconstruction and computer vision:
 ## 📊 GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lionshilov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionshilov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </div>
+
+> The metrics SVG above is regenerated daily by a GitHub Action living in this repo — no external widget services, no flaky third-party hosts.
 
 ---
 
