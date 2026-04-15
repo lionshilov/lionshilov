@@ -12,40 +12,25 @@
 
 ## 🚀 Shipped
 
-**On the App Store** — all live, downloadable:
+### 📱 On the App Store
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+**AIKynetix** — AI sports-video analytics. Real-time pose estimation, CoreML pipelines at 30+ FPS on-device. Leading iOS development.
 
-**AIKynetix** — AI sports-video analytics (leading iOS)
+[Run · Jump · Lift (full suite)](https://apps.apple.com/app/id1565394039) &nbsp;·&nbsp;
+[Run AIK](https://apps.apple.com/app/id6741048150) &nbsp;·&nbsp;
+[Jump AIK](https://apps.apple.com/app/id6739533269) &nbsp;·&nbsp;
+[Lift AIK](https://apps.apple.com/app/id6741048318) &nbsp;·&nbsp;
+[Equestrian AIK](https://apps.apple.com/app/id6753741009)
 
-- [Run · Jump · Lift (full suite)](https://apps.apple.com/app/id1565394039)
-- [Run AIK](https://apps.apple.com/app/id6741048150)
-- [Jump AIK](https://apps.apple.com/app/id6739533269)
-- [Lift AIK (Apple Watch)](https://apps.apple.com/app/id6741048318)
-- [Equestrian AIK](https://apps.apple.com/app/id6753741009)
-
-Real-time pose estimation, CoreML pipelines at 30+ FPS on-device.
-
-  </td>
-  <td valign="top" width="50%">
-
-**Solo / indie apps**
+**Solo / indie** — built from scratch end-to-end (design, code, App Store, growth).
 
 - **[Focusy](https://apps.apple.com/app/id6760561095)** — Tasks, habits, AI coaching. SwiftUI + widgets + HealthKit.
-- **[Юрист AI Pair](https://apps.apple.com/app/id6760489106)** — An AI legal assistant for Russian consumer-rights questions.
+- **[Юрист AI Pair](https://apps.apple.com/app/id6760489106)** — AI legal assistant for Russian consumer-rights questions.
 
-Built solo from scratch — design, code, App Store submission, growth.
-
-  </td>
-  </tr>
-</table>
-
-**Open source**
+### 🔧 Open source
 
 - **[Forge](https://github.com/lionshilov/Forge)** — A multi-agent system for Claude Code that takes you from raw idea to shipped MVP. Zero install, just Markdown.
-- Side experiments: [VHS camera](https://github.com/lionshilov/vhscamera-ios) · [3D viewer](https://github.com/lionshilov/3dviewer-ios) · [power-weather](https://github.com/lionshilov/power-weather)
+- Side experiments: [VHS camera](https://github.com/lionshilov/vhscamera-ios) &nbsp;·&nbsp; [3D viewer](https://github.com/lionshilov/3dviewer-ios) &nbsp;·&nbsp; [power-weather](https://github.com/lionshilov/power-weather)
 
 ## 🛠️ What I work with
 
