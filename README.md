@@ -115,16 +115,6 @@ Peer-reviewed publications on 3D reconstruction and computer vision:
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</div>
-
-> The metrics SVG above is regenerated daily by a GitHub Action living in this repo — no external widget services, no flaky third-party hosts.
-
----
-
 ## 📫 Reach me
 
 <div align="center">
