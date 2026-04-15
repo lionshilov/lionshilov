@@ -21,7 +21,10 @@ jobs:
         with:
           # Self-hosted SVG — no external runtime dependency.
           filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Prefer METRICS_TOKEN (a classic PAT with public_repo or full repo scope) —
+          # it's required for cross-repo plugins like languages, habits, topics, achievements.
+          # Falls back to GITHUB_TOKEN, which only sees this single repo.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: lionshilov
 
           # Appearance
