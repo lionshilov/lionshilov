@@ -2,7 +2,7 @@
 
 # Hi, I'm Lev 👋
 
-### iOS engineer & indie builder. 7 apps live on the App Store, open-source tools for Claude Code, peer-reviewed computer-vision research.
+### iOS / AI Engineer & . 7 apps live on the App Store, open-source tools for Claude Code, peer-reviewed computer-vision research.
 
 📍 Tomsk, Russia · 🏢 [@aikynetix](https://github.com/aikynetix) · [@Sprouter-ai](https://github.com/Sprouter-ai) · [@leamSoft-org](https://github.com/leamSoft-org)
 
@@ -11,6 +11,12 @@
 ---
 
 ## 🚀 Shipped
+
+### SaaS 
+
+**AIKynetix** — AI sports/healthcare/workspace video analytics. Offline pose estimation. Leading Web Development.
+
+[AI AIKYNETIX](https://ai.aikynetix.app)
 
 ### 📱 On the App Store
 
