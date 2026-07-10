@@ -2,7 +2,7 @@
 
 # Hi, I'm Lev 👋
 
-### iOS / AI Engineer with 6 years expirience. 7 apps live on the App Store, open-source tools for Claude Code, peer-reviewed computer-vision research.
+### iOS / AI Engineer with 6 years experience. 7 apps live on the App Store, open-source tools for Claude Code, peer-reviewed computer-vision research.
 
 📍 Tomsk, Russia · 🏢 [@aikynetix](https://github.com/aikynetix) · [@Sprouter-ai](https://github.com/Sprouter-ai) · [@leamSoft-org](https://github.com/leamSoft-org)
 
